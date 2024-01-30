@@ -1,0 +1,15 @@
+# Eclipse metadata
+.metadata/
+*/metadata/**
+.classpath
+.project
+.settings/
+/bin/**
+
+# Other Eclipse-specific files
+*.launch
+*.swp
+*.log
+
+# Ignore target directory (compiled classes)
+target/
