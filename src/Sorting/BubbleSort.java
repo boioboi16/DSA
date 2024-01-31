@@ -31,3 +31,8 @@ public class BubbleSort {
 	}
 
 }
+// Total number of comparisons=(n−1)+(n−2)+(n−3)+…+2+1
+// which is equal to n(n+1)/2 therefore the time complexity is O(N^2)
+
+//Auxiliary Space: O(1)
+
